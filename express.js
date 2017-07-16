@@ -6,7 +6,6 @@ const fs = require('fs');
 
 
 module.exports = function () {
-    // YOUR CODE HERE
     var storedRoutes = {'functions': []}
     var nextVal = '3HlufdU3tfX1inL5uUvUPvjg2vDR9W0tL5'
 
